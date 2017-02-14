@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <group>
+
+        <property name="appName"
+                  description="应用程序的工作目录" />
+        <property name="online"
+                  description="应用程序的工作目录" />
+    </group>
+    <script>
+        <generate template="WEB-INF/resources.xml" />
+    </script>
+</config>

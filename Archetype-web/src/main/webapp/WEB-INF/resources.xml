@@ -1,0 +1,5 @@
+#if ($online)
+        Go North
+#else
+        Go East
+<param-value>${appName}</param-value>
